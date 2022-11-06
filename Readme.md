@@ -7,6 +7,7 @@
 ## Main Functions
 
 The user can register three different types of accounts:
+
 - Current Account: regular people account with basic functions.
 - Business Account: account designed for businesses with a special loan function.
 - Bonus Account: beta account that gives a $100 bonus for every new deposit.
@@ -14,7 +15,9 @@ The user can register three different types of accounts:
 ## Usage
 
 Assuming you have **npm** correctly installed in your system, download all files, open a new Terminal and run:
-'''
+
+```
 npm run devapp
-'''
+```
+
 Feel free to edit **app.ts** lines to test every app function.
